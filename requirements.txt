@@ -1,0 +1,5 @@
+numpy
+tqdm
+torch
+transformers>=4.38.1
+rouge-score
